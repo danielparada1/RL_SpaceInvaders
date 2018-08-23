@@ -1,13 +1,13 @@
 # RL_SpaceInvaders
 Training an agent using deep Q network and convolutional neural networks
 
-trainAgent.py : 
+trainAgent.ipynb : 
     imports all necessary files and depencies including the functions from our BrainDQN file
     preprocesses the images that are used as inputs
     loops forever to train the neural network
     creates a gif/video of a given number of frames
     
-BrainDQN_Nature3L.ipynb
+BrainDQN_Nature3L.py
     Contains all of the necessary functions to create the neural network and the training method for the network
 
 
