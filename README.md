@@ -33,3 +33,7 @@ https://ai.stackexchange.com/questions/2449/what-are-different-actions-in-action
 
 Atary-py Manual (looking for a way to reduce the action_space (currently Discrete(6)) to it's minimal requirement (Discrete(4)) ) :
 https://github.com/openai/atari-py/blob/master/doc/manual/manual.pdf
+
+# Researcher and Books
+- [Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/)
+  + [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)
