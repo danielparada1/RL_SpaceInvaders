@@ -1,4 +1,4 @@
-## RL_SpaceInvaders
+# RL_SpaceInvaders
 
 | Objectives :  |
 | :------------- |
@@ -14,7 +14,7 @@
 | Alter reward function : add new constraints, modify numeric values and composite rewards (i.e. predictive shooting) |
 | Alter input to neural network (i.e. size of images or number of frames) |
 
-# Files :
+## Files :
 
 trainAgent.ipynb : 
     imports all necessary files and depencies including the functions from our BrainDQN file
@@ -25,7 +25,7 @@ trainAgent.ipynb :
 BrainDQN_Nature3L.py
     Contains all of the necessary functions to create the neural network and the training method for the network
 
-# Resources :
+## Resources :
 
 Atari environment used by the game : (in particular the step function)
 https://github.com/openai/gym/blob/master/gym/envs/atari/atari_env.py
@@ -52,6 +52,6 @@ https://ai.stackexchange.com/questions/2449/what-are-different-actions-in-action
 Atary-py Manual (looking for a way to reduce the action_space (currently Discrete(6)) to it's minimal requirement (Discrete(4)) ) :
 https://github.com/openai/atari-py/blob/master/doc/manual/manual.pdf
 
-# Researcher and Books
+## Researcher and Books
 - [Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/)
   + [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)
