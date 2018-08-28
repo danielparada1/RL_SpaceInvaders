@@ -1,5 +1,16 @@
 # RL_SpaceInvaders
-Training an agent using deep Q network and convolutional neural networks
+Objective :
+    Train an agent using deep Q and convolutional neural networks to play Atari Space Invaders
+    Design a new neural network structure
+        Translate new neural network structure from Tensorflow to Keras
+        Use a Resnet architecture
+        
+Future work :
+    Explore different neural network architectures (i.e. change size/number of filters or connected layers)
+    Modify cost function and optimiser
+    Alter reward function : add new constraints, modify numeric values and composite rewards (i.e. predictive shooting)
+    Alter input to neural network (i.e. size of images or number of frames)
+
 
 trainAgent.ipynb : 
     imports all necessary files and depencies including the functions from our BrainDQN file
@@ -21,6 +32,9 @@ https://github.com/mgbellemare/Arcade-Learning-Environment
 
 Paper discussing the theory behind Resnet :
 https://arxiv.org/pdf/1512.03385.pdf
+
+Sample code for resnet :
+https://github.com/keras-team/keras/pull/3266/files
 
 Sample code with simple instructions (which I was unable to make work) to run the code locally on the machine :
 https://github.com/floodsung/DQN-Atari-Tensorflow
