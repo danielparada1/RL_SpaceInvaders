@@ -1,0 +1,6 @@
+model_checkpoint_path: "network-dqn-560000"
+all_model_checkpoint_paths: "network-dqn-520000"
+all_model_checkpoint_paths: "network-dqn-530000"
+all_model_checkpoint_paths: "network-dqn-540000"
+all_model_checkpoint_paths: "network-dqn-550000"
+all_model_checkpoint_paths: "network-dqn-560000"
