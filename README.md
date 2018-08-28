@@ -1,13 +1,13 @@
 # RL_SpaceInvaders
-| Objective :  |
-| ------------- |
+| Objectives :  |
+| :------------- |
 | Train an agent using deep Q and convolutional neural networks to play Atari Space Invaders  |
 | Design a new neural network structure  |
 | Translate new neural network structure from Tensorflow to Keras |
 | Implement a Resnet architecture |
 
 | Future work :  |
-| ------------- |
+| :------------- |
 | Explore different neural network architectures (i.e. change size/number of filters or connected layers)  |
 | Modify cost function and optimiser  |
 | Alter reward function : add new constraints, modify numeric values and composite rewards (i.e. predictive shooting) |
