@@ -1,4 +1,5 @@
-# RL_SpaceInvaders
+## RL_SpaceInvaders
+
 | Objectives :  |
 | :------------- |
 | Train an agent using deep Q and convolutional neural networks to play Atari Space Invaders  |
@@ -13,6 +14,7 @@
 | Alter reward function : add new constraints, modify numeric values and composite rewards (i.e. predictive shooting) |
 | Alter input to neural network (i.e. size of images or number of frames) |
 
+# Files :
 
 trainAgent.ipynb : 
     imports all necessary files and depencies including the functions from our BrainDQN file
@@ -23,7 +25,7 @@ trainAgent.ipynb :
 BrainDQN_Nature3L.py
     Contains all of the necessary functions to create the neural network and the training method for the network
 
-
+# Resources :
 
 Atari environment used by the game : (in particular the step function)
 https://github.com/openai/gym/blob/master/gym/envs/atari/atari_env.py
